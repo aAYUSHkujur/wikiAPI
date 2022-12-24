@@ -1,0 +1,3 @@
+# wikiAPI
+
+RESTfull API
